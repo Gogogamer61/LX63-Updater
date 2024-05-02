@@ -1,4 +1,5 @@
 repeat game:GetService("RunService").Heartbeat:Wait() until game:GetService("CoreGui").RobloxGui.NotificationFrame:FindFirstChildOfClass("Frame")
 for _,del in pairs(game:GetService("CoreGui").RobloxGui.NotificationFrame:GetChildren()) do
     del:Destroy()
+print"aewbfawebfjaw"
 end
