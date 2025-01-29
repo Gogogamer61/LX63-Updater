@@ -1,0 +1,10 @@
+local startTime = tick()
+local duration = 1 -- 1 saniye boyunca çalışacak
+local count = 0
+
+while tick() - startTime < duration do
+    for i = 1, 1000 do
+        print("lx63")
+        count = count + 1
+    end
+end
