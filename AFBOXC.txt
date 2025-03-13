@@ -1,5 +1,1 @@
-repeat game:GetService("RunService").Heartbeat:Wait() until game:GetService("CoreGui").RobloxGui.NotificationFrame:FindFirstChildOfClass("Frame")
-for _,del in pairs(game:GetService("CoreGui").RobloxGui.NotificationFrame:GetChildren()) do
-    del:Destroy()
-print"aewbfawebfjaw"
-end
+https://www.dropbox.com/scl/fi/wljtk316e4jmbr6pu2av2/robloxverslast.zip?rlkey=0lz293no4szvrjakfzsd6pdc5&st=07kqhs83&dl=1
